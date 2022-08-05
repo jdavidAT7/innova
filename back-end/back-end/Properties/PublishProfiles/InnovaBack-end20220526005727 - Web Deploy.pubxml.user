@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAB4UeA2ot/0af6uJUTDWnqgAAAAACAAAAAAAQZgAAAAEAACAAAACu0qV0L1FKSKUErSbn6pplLe4b/oGZ215GMBcYgawyQQAAAAAOgAAAAAIAACAAAABht0xJK/VnflHnX2+jIvSQwVafhmZ3IC9kucOZNNMgrIAAAACn/yF26iLBJzP/ZPtpWIE1l6Mrt2SZHlGg8uvaSHK/940CA9Q4amfb5q+/SNKkOcUmGzMfTo91tF0M+csvoRPojLNb8ikibHcU/99y7EL4pEA4YOqldCtzZR7CCqArYvVOGh6mGWobb2WvCVrcyZVvfT8LffHnPxqCRbuM7zDgTUAAAAC/Ac0KbNMFl4iadJNfRBUJL3BQ+1DiYiIvLGMhIEIbEEqTchjphakWQDL7fBntmKJU9eIB1dx/+HH5W8fDnkhR</EncryptedPassword>
+    <History>True|2022-05-26T07:33:25.0834672Z;True|2022-05-26T01:24:18.8464145-06:00;True|2022-05-26T01:14:50.9521544-06:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="back_end.ApplicationDbContext">
+      <Value>Data Source=tcp:back-enddbserver26.database.windows.net,1433%3bInitial Catalog=back-end_db%3bUser Id=david%40back-enddbserver26%3bPassword=Azure%2a+2605</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

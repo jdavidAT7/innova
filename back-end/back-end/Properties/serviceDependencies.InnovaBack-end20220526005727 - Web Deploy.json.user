@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "restored": true,
+      "restoreTime": "2022-05-26T07:12:21.1413989Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2022-05-26T07:10:33.5676517Z"
+    },
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2022-05-26T07:12:07.9553716Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "7cac41f5-616c-4d04-a13d-2f3b0ff559ee"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "InTelecom"
+    }
+  }
+}
